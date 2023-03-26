@@ -20,10 +20,11 @@ class Image2Vector:
         img = cv.imread(image)
         app = inf.app.FaceAnalysis('buffalo_l', providers=['CUDAExecutionProvider', 'CPUExecutionProvider'])
         app.prepare(ctx_id=1, det_size=(256, 256))
-        detect = app.get(img)
-        if detect:
+        try:
+            detect = app.get(img)
             return detect[0]['embedding']
-        else:
+        except:
+            print('Not detection')
             return np.full(512, 999)
 
     def get_embedding_face_recognition(self, image):

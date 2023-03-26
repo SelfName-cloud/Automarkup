@@ -1,7 +1,7 @@
 dlib/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o: \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/dir_nav_extensions.cpp \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/dir_nav_extensions.cpp \
  /usr/include/stdc-predef.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/dir_nav_extensions.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/dir_nav_extensions.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -142,15 +142,15 @@ dlib/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o: \
  /usr/include/c++/11/bits/stl_heap.h \
  /usr/include/c++/11/bits/stl_tempbuf.h \
  /usr/include/c++/11/bits/uniform_int_dist.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/dir_nav_extensions_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../platform.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/posix.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/dir_nav_kernel_2.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/dir_nav_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../uintn.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../config.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/dir_nav_extensions_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../platform.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/posix.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/dir_nav_kernel_2.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/dir_nav_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../uintn.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../config.h \
  /usr/include/c++/11/sstream /usr/include/c++/11/istream \
  /usr/include/c++/11/ios /usr/include/c++/11/exception \
  /usr/include/c++/11/bits/exception_ptr.h \
@@ -174,20 +174,20 @@ dlib/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o: \
  /usr/include/c++/11/bits/ostream.tcc \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../error.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../error.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/cassert \
  /usr/include/assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stack_trace.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../platform.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../windows_magic.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stack_trace.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../platform.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../windows_magic.h \
  /usr/include/c++/11/limits \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../noncopyable.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../enable_if.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../uintn.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../numeric_constants.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../memory_manager_stateless/memory_manager_stateless_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../noncopyable.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../enable_if.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../uintn.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../numeric_constants.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../memory_manager_stateless/memory_manager_stateless_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
  /usr/include/dirent.h /usr/include/x86_64-linux-gnu/bits/dirent.h \
  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
@@ -224,13 +224,13 @@ dlib/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o: \
  /usr/include/c++/11/stdlib.h /usr/include/c++/11/chrono \
  /usr/include/c++/11/ratio /usr/include/c++/11/ctime \
  /usr/include/c++/11/bits/parse_numbers.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/std_vector_c.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/std_vector_c_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../serialize.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/std_vector_c.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/std_vector_c_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../serialize.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../assert.h \
  /usr/include/c++/11/iomanip /usr/include/c++/11/locale \
  /usr/include/c++/11/bits/locale_facets_nonio.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/time_members.h \
@@ -273,48 +273,48 @@ dlib/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o: \
  /usr/include/c++/11/backward/auto_ptr.h /usr/include/c++/11/set \
  /usr/include/c++/11/bits/stl_set.h \
  /usr/include/c++/11/bits/stl_multiset.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../uintn.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../interfaces/enumerable.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../interfaces/map_pair.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../enable_if.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../unicode.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../unicode/unicode.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../unicode/../uintn.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../unicode/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../unicode/unicode_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../uintn.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../interfaces/enumerable.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../interfaces/map_pair.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../enable_if.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../unicode.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../unicode/unicode.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../unicode/../uintn.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../unicode/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../unicode/unicode_abstract.h \
  /usr/include/c++/11/cstring /usr/include/string.h /usr/include/strings.h \
  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../byte_orderer.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../byte_orderer/byte_orderer_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../byte_orderer/byte_orderer_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../byte_orderer/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../byte_orderer/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../float_details.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../is_kind.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../enable_if.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../queue.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/queue_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/queue_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/../interfaces/enumerable.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/../interfaces/remover.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../byte_orderer.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../byte_orderer/byte_orderer_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../byte_orderer/byte_orderer_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../byte_orderer/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../byte_orderer/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../float_details.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../stl_checked/../is_kind.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../enable_if.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../queue.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/queue_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/queue_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/../interfaces/enumerable.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/../interfaces/remover.h \
  /usr/include/c++/11/functional /usr/include/c++/11/bits/std_function.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/../serialize.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/queue_kernel_2.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/queue_kernel_c.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/queue_sort_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/queue_sort_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/../sort.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../dir_nav/dir_nav_extensions.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../string.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../string/string.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../string/string_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../string/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../string/../error.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../string/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../string/../uintn.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/dir_nav/../string/../enable_if.h
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/../serialize.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/queue_kernel_2.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/queue_kernel_c.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/queue_sort_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/queue_sort_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/../sort.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../queue/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../dir_nav/dir_nav_extensions.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../string.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../string/string.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../string/string_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../string/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../string/../error.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../string/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../string/../uintn.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/dir_nav/../string/../enable_if.h

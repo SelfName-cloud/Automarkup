@@ -51,13 +51,11 @@ class CompareVector:
 
         for idx_row in range(self.length):
             for idx_column in range(idx_row, self.length):
-                matrix[idx_row, idx_column] = self.get_cosine_metric(self.image_title[idx_row],
-                                                                     self.image_title[idx_column])
+                matrix[idx_row, idx_column] = np.around(self.get_cosine_metric(self.image_title[idx_row],
+                                                                     self.image_title[idx_column]), 2)
 
-        matrix = np.where(matrix <= 0.6, 1, 0)
-        matrix = pd.DataFrame(matrix, index=self.image_title, columns=self.image_title)
-        matrix = (matrix + matrix.T) - np.diag(np.full(self.length, 1))
-
+        matrix = pd.DataFrame(matrix, index=self.image_title, columns=self.image_title).fillna(value=0)
+        matrix = matrix + matrix.T
         return matrix
 
 

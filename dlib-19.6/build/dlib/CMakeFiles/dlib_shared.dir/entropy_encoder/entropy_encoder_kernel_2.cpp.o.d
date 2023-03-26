@@ -1,8 +1,8 @@
 dlib/CMakeFiles/dlib_shared.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o: \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp \
  /usr/include/stdc-predef.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/entropy_encoder_kernel_2.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/entropy_encoder_kernel_2.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/../algs.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -133,8 +133,8 @@ dlib/CMakeFiles/dlib_shared.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o: 
  /usr/include/c++/11/bits/functional_hash.h \
  /usr/include/c++/11/bits/hash_bytes.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/../platform.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/../windows_magic.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/../platform.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/../windows_magic.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/utility \
  /usr/include/c++/11/bits/stl_relops.h \
  /usr/include/c++/11/bits/stl_algo.h \
@@ -142,8 +142,8 @@ dlib/CMakeFiles/dlib_shared.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o: 
  /usr/include/c++/11/bits/stl_heap.h \
  /usr/include/c++/11/bits/stl_tempbuf.h \
  /usr/include/c++/11/bits/uniform_int_dist.h /usr/include/c++/11/limits \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/../config.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/../config.h \
  /usr/include/c++/11/sstream /usr/include/c++/11/istream \
  /usr/include/c++/11/ios /usr/include/c++/11/exception \
  /usr/include/c++/11/bits/exception_ptr.h \
@@ -167,15 +167,15 @@ dlib/CMakeFiles/dlib_shared.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o: 
  /usr/include/c++/11/bits/ostream.tcc \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/../error.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/../error.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/cassert \
  /usr/include/assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/../stack_trace.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/../noncopyable.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/../enable_if.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/../uintn.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/../numeric_constants.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/../memory_manager_stateless/memory_manager_stateless_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/../memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/entropy_encoder_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/entropy_encoder/../uintn.h
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/../stack_trace.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/../noncopyable.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/../enable_if.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/../uintn.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/../numeric_constants.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/../memory_manager_stateless/memory_manager_stateless_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/../memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/entropy_encoder_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/entropy_encoder/../uintn.h
