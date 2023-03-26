@@ -13,6 +13,7 @@ class DivisionDirs(CompareVector):
         self.dict_dir = self.get_dir_division()
         with open(path_dir_output + '/dict_dir.pkl', 'wb') as f:
             pickle.dump(self.dict_dir, f)
+        self.matrix.to_csv(path_dir_output + '/Matrix_compare.csv')
 
     def get_dir_division(self) -> dict:
         dict_dir = {}
@@ -21,9 +22,11 @@ class DivisionDirs(CompareVector):
             if image in array:
                 continue
             else:
-                arr = np.array(self.matrix.iloc[idx].loc[lambda x: x == 1].index)
-                array.extend(arr)
-                dict_dir['dir{}'.format(idx)] = arr
+                arr = set(np.array(self.matrix.iloc[idx].loc[lambda x: x <= 0.65].index))
+                intersect = set(array).intersection(arr)
+                adding = list(arr - intersect)
+                array.extend(adding)
+                dict_dir['dir{}'.format(idx)] = adding
         return dict_dir
 
     def make_new_dir(self) -> None:

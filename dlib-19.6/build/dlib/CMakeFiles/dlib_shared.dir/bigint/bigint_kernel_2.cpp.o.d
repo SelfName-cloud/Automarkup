@@ -1,9 +1,9 @@
 dlib/CMakeFiles/dlib_shared.dir/bigint/bigint_kernel_2.cpp.o: \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/bigint_kernel_2.cpp \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/bigint_kernel_2.cpp \
  /usr/include/stdc-predef.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/bigint_kernel_2.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/bigint_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/bigint_kernel_2.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/bigint_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../algs.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -134,8 +134,8 @@ dlib/CMakeFiles/dlib_shared.dir/bigint/bigint_kernel_2.cpp.o: \
  /usr/include/c++/11/bits/functional_hash.h \
  /usr/include/c++/11/bits/hash_bytes.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../platform.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../windows_magic.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../platform.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../windows_magic.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/utility \
  /usr/include/c++/11/bits/stl_relops.h \
  /usr/include/c++/11/bits/stl_algo.h \
@@ -143,8 +143,8 @@ dlib/CMakeFiles/dlib_shared.dir/bigint/bigint_kernel_2.cpp.o: \
  /usr/include/c++/11/bits/stl_heap.h \
  /usr/include/c++/11/bits/stl_tempbuf.h \
  /usr/include/c++/11/bits/uniform_int_dist.h /usr/include/c++/11/limits \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../config.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../config.h \
  /usr/include/c++/11/sstream /usr/include/c++/11/istream \
  /usr/include/c++/11/ios /usr/include/c++/11/exception \
  /usr/include/c++/11/bits/exception_ptr.h \
@@ -168,18 +168,18 @@ dlib/CMakeFiles/dlib_shared.dir/bigint/bigint_kernel_2.cpp.o: \
  /usr/include/c++/11/bits/ostream.tcc \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../error.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../error.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/cassert \
  /usr/include/assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../stack_trace.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../noncopyable.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../enable_if.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../uintn.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../numeric_constants.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../memory_manager_stateless/memory_manager_stateless_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../serialize.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../stack_trace.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../noncopyable.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../enable_if.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../uintn.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../numeric_constants.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../memory_manager_stateless/memory_manager_stateless_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../serialize.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../algs.h \
  /usr/include/c++/11/iomanip /usr/include/c++/11/locale \
  /usr/include/c++/11/bits/locale_facets_nonio.h /usr/include/c++/11/ctime \
  /usr/include/x86_64-linux-gnu/c++/11/bits/time_members.h \
@@ -226,20 +226,20 @@ dlib/CMakeFiles/dlib_shared.dir/bigint/bigint_kernel_2.cpp.o: \
  /usr/include/c++/11/backward/auto_ptr.h /usr/include/c++/11/set \
  /usr/include/c++/11/bits/stl_set.h \
  /usr/include/c++/11/bits/stl_multiset.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../interfaces/enumerable.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../interfaces/map_pair.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../unicode.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../unicode/unicode.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../unicode/../uintn.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../unicode/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../unicode/unicode_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../interfaces/enumerable.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../interfaces/map_pair.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../unicode.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../unicode/unicode.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../unicode/../uintn.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../unicode/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../unicode/unicode_abstract.h \
  /usr/include/c++/11/cstring /usr/include/string.h /usr/include/strings.h \
  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../byte_orderer.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../byte_orderer/byte_orderer_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../byte_orderer/byte_orderer_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../byte_orderer/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../byte_orderer/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../float_details.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/bigint/../uintn.h
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../byte_orderer.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../byte_orderer/byte_orderer_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../byte_orderer/byte_orderer_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../byte_orderer/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../byte_orderer/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../float_details.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/bigint/../uintn.h

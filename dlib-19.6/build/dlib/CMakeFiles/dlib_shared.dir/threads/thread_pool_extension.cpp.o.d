@@ -1,7 +1,7 @@
 dlib/CMakeFiles/dlib_shared.dir/threads/thread_pool_extension.cpp.o: \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/thread_pool_extension.cpp \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/thread_pool_extension.cpp \
  /usr/include/stdc-predef.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/thread_pool_extension.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/thread_pool_extension.h \
  /usr/include/c++/11/exception \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -126,20 +126,20 @@ dlib/CMakeFiles/dlib_shared.dir/threads/thread_pool_extension.cpp.o: \
  /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/thread_pool_extension_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/multithreaded_object_extension.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/multithreaded_object_extension_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/threads_kernel.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../platform.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/posix.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/threads_kernel_2.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/threads_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/thread_pool_extension_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/multithreaded_object_extension.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/multithreaded_object_extension_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/threads_kernel.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../platform.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/posix.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/threads_kernel_2.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/threads_kernel_abstract.h \
  /usr/include/x86_64-linux-gnu/sys/time.h \
  /usr/include/x86_64-linux-gnu/sys/select.h \
  /usr/include/x86_64-linux-gnu/bits/select.h \
  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/select2.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../algs.h \
  /usr/include/c++/11/string /usr/include/c++/11/bits/char_traits.h \
  /usr/include/c++/11/bits/localefwd.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++locale.h \
@@ -168,14 +168,14 @@ dlib/CMakeFiles/dlib_shared.dir/threads/thread_pool_extension.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../platform.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../windows_magic.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../platform.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../windows_magic.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/bits/stl_algo.h \
  /usr/include/c++/11/bits/algorithmfwd.h \
  /usr/include/c++/11/bits/stl_heap.h \
  /usr/include/c++/11/bits/uniform_int_dist.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../config.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../config.h \
  /usr/include/c++/11/sstream /usr/include/c++/11/istream \
  /usr/include/c++/11/ios /usr/include/c++/11/bits/ios_base.h \
  /usr/include/c++/11/bits/locale_classes.h \
@@ -195,34 +195,34 @@ dlib/CMakeFiles/dlib_shared.dir/threads/thread_pool_extension.cpp.o: \
  /usr/include/c++/11/bits/ostream.tcc \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../error.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../error.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/cassert \
  /usr/include/assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../stack_trace.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../noncopyable.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../enable_if.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../uintn.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../numeric_constants.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../memory_manager_stateless/memory_manager_stateless_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/threads_kernel_shared.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/auto_mutex_extension.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/rmutex_extension.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/rmutex_extension_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/read_write_mutex_extension.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/read_write_mutex_extension_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/auto_mutex_extension_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/binary_search_tree_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/binary_search_tree_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../interfaces/map_pair.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../interfaces/enumerable.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../interfaces/remover.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../stack_trace.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../noncopyable.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../enable_if.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../uintn.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../numeric_constants.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../memory_manager_stateless/memory_manager_stateless_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/threads_kernel_shared.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/auto_mutex_extension.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/rmutex_extension.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/rmutex_extension_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/read_write_mutex_extension.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/read_write_mutex_extension_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/auto_mutex_extension_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/binary_search_tree_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/binary_search_tree_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../interfaces/map_pair.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../interfaces/enumerable.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../interfaces/remover.h \
  /usr/include/c++/11/functional /usr/include/c++/11/bits/std_function.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../serialize.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../serialize.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../assert.h \
  /usr/include/c++/11/iomanip /usr/include/c++/11/locale \
  /usr/include/c++/11/bits/locale_facets_nonio.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/time_members.h \
@@ -253,98 +253,98 @@ dlib/CMakeFiles/dlib_shared.dir/threads/thread_pool_extension.cpp.o: \
  /usr/include/c++/11/bits/erase_if.h /usr/include/c++/11/set \
  /usr/include/c++/11/bits/stl_set.h \
  /usr/include/c++/11/bits/stl_multiset.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../uintn.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../interfaces/enumerable.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../interfaces/map_pair.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../enable_if.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../unicode.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../unicode/unicode.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../unicode/../uintn.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../unicode/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../unicode/unicode_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../uintn.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../interfaces/enumerable.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../interfaces/map_pair.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../enable_if.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../unicode.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../unicode/unicode.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../unicode/../uintn.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../unicode/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../unicode/unicode_abstract.h \
  /usr/include/c++/11/cstring /usr/include/string.h /usr/include/strings.h \
  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../byte_orderer.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../byte_orderer/byte_orderer_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../byte_orderer/byte_orderer_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../byte_orderer/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../byte_orderer/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../float_details.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/binary_search_tree_kernel_2.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/binary_search_tree_kernel_c.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../member_function_pointer.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../member_function_pointer/member_function_pointer_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../member_function_pointer/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../member_function_pointer/member_function_pointer_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../member_function_pointer/../enable_if.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../member_function_pointer/make_mfp.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../member_function_pointer/member_function_pointer_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../member_function_pointer/make_mfp_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../memory_manager.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../memory_manager/memory_manager_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../memory_manager/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../memory_manager/memory_manager_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../memory_manager/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../memory_manager/memory_manager_kernel_2.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../memory_manager/memory_manager_kernel_3.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../memory_manager/memory_manager_kernel_2.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../memory_manager/../binary_search_tree/binary_search_tree_kernel_2.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../queue.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../queue/queue_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../queue/queue_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../queue/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../queue/../interfaces/enumerable.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../queue/../interfaces/remover.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../queue/../serialize.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../queue/queue_kernel_2.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../queue/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../queue/queue_kernel_c.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../queue/queue_sort_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../queue/queue_sort_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../queue/../sort.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../queue/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../set.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../set/set_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../set/set_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../set/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../set/../interfaces/enumerable.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../set/../interfaces/remover.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../set/../serialize.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../set/set_kernel_c.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../set/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../binary_search_tree.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../set/set_compare_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../set/set_compare_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/rsignaler_extension.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/rsignaler_extension_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../map.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../map/map_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../map/map_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../map/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../map/../interfaces/enumerable.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../map/../interfaces/map_pair.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../map/../interfaces/remover.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../map/../serialize.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../map/map_kernel_c.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../map/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../bound_function_pointer.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../bound_function_pointer/bound_function_pointer_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../bound_function_pointer/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../bound_function_pointer/../member_function_pointer.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../bound_function_pointer/bound_function_pointer_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../uintn.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../array.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../array/array_kernel.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../array/array_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../array/../interfaces/enumerable.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../array/../algs.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../array/../serialize.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../array/../sort.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../array/../is_kind.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../array/array_tools.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../array/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/threads/../array/array_tools_abstract.h
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../byte_orderer.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../byte_orderer/byte_orderer_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../byte_orderer/byte_orderer_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../byte_orderer/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../byte_orderer/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../float_details.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/binary_search_tree_kernel_2.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/binary_search_tree_kernel_c.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../member_function_pointer.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../member_function_pointer/member_function_pointer_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../member_function_pointer/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../member_function_pointer/member_function_pointer_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../member_function_pointer/../enable_if.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../member_function_pointer/make_mfp.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../member_function_pointer/member_function_pointer_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../member_function_pointer/make_mfp_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../memory_manager.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../memory_manager/memory_manager_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../memory_manager/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../memory_manager/memory_manager_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../memory_manager/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../memory_manager/memory_manager_kernel_2.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../memory_manager/memory_manager_kernel_3.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../memory_manager/memory_manager_kernel_2.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../memory_manager/../binary_search_tree/binary_search_tree_kernel_2.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../queue.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../queue/queue_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../queue/queue_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../queue/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../queue/../interfaces/enumerable.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../queue/../interfaces/remover.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../queue/../serialize.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../queue/queue_kernel_2.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../queue/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../queue/queue_kernel_c.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../queue/queue_sort_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../queue/queue_sort_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../queue/../sort.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../queue/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../set.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../set/set_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../set/set_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../set/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../set/../interfaces/enumerable.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../set/../interfaces/remover.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../set/../serialize.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../set/set_kernel_c.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../set/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../binary_search_tree.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../set/set_compare_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../set/set_compare_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/rsignaler_extension.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/rsignaler_extension_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../map.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../map/map_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../map/map_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../map/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../map/../interfaces/enumerable.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../map/../interfaces/map_pair.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../map/../interfaces/remover.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../map/../serialize.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../map/map_kernel_c.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../map/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../bound_function_pointer.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../bound_function_pointer/bound_function_pointer_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../bound_function_pointer/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../bound_function_pointer/../member_function_pointer.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../bound_function_pointer/bound_function_pointer_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../uintn.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../array.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../array/array_kernel.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../array/array_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../array/../interfaces/enumerable.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../array/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../array/../serialize.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../array/../sort.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../array/../is_kind.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../array/array_tools.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../array/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/threads/../array/array_tools_abstract.h

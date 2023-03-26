@@ -1,7 +1,7 @@
 dlib/CMakeFiles/dlib_shared.dir/misc_api/misc_api_kernel_2.cpp.o: \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/misc_api_kernel_2.cpp \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/misc_api_kernel_2.cpp \
  /usr/include/stdc-predef.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/../platform.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/../platform.h \
  /usr/include/unistd.h /usr/include/features.h \
  /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -22,9 +22,9 @@ dlib/CMakeFiles/dlib_shared.dir/misc_api/misc_api_kernel_2.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/unistd.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
  /usr/include/linux/close_range.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/misc_api_kernel_2.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/misc_api_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/../algs.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/misc_api_kernel_2.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/misc_api_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/../algs.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -144,8 +144,8 @@ dlib/CMakeFiles/dlib_shared.dir/misc_api/misc_api_kernel_2.cpp.o: \
  /usr/include/c++/11/bits/functional_hash.h \
  /usr/include/c++/11/bits/hash_bytes.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/../platform.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/../windows_magic.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/../platform.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/../windows_magic.h \
  /usr/include/c++/11/algorithm /usr/include/c++/11/utility \
  /usr/include/c++/11/bits/stl_relops.h \
  /usr/include/c++/11/bits/stl_algo.h \
@@ -153,8 +153,8 @@ dlib/CMakeFiles/dlib_shared.dir/misc_api/misc_api_kernel_2.cpp.o: \
  /usr/include/c++/11/bits/stl_heap.h \
  /usr/include/c++/11/bits/stl_tempbuf.h \
  /usr/include/c++/11/bits/uniform_int_dist.h /usr/include/c++/11/limits \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/../assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/../config.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/../assert.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/../config.h \
  /usr/include/c++/11/sstream /usr/include/c++/11/istream \
  /usr/include/c++/11/ios /usr/include/c++/11/exception \
  /usr/include/c++/11/bits/exception_ptr.h \
@@ -178,17 +178,17 @@ dlib/CMakeFiles/dlib_shared.dir/misc_api/misc_api_kernel_2.cpp.o: \
  /usr/include/c++/11/bits/ostream.tcc \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/../error.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/../error.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/cassert \
  /usr/include/assert.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/../stack_trace.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/../noncopyable.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/../enable_if.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/../uintn.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/../numeric_constants.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/../memory_manager_stateless/memory_manager_stateless_kernel_1.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/../memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
- /home/nikita/PycharmProjects/ProjectVKR/dlib-19.6/dlib/misc_api/../uintn.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/../stack_trace.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/../noncopyable.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/../enable_if.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/../uintn.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/../numeric_constants.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/../memory_manager_stateless/memory_manager_stateless_kernel_1.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/../memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
+ /home/nikita/Automarkup/dlib-19.6/dlib/misc_api/../uintn.h \
  /usr/include/x86_64-linux-gnu/sys/time.h \
  /usr/include/x86_64-linux-gnu/sys/stat.h \
  /usr/include/x86_64-linux-gnu/bits/stat.h \
