@@ -37,9 +37,22 @@ class GenerateSets(ExtractDataFromImage):
 
             for idx_column in range(idx_row, self.length):
 
-                array.append(get_metrics(self.vector[self.keys[idx_row]][:512],
-                                         self.vector[self.keys[idx_column]][:512],
-                                         dist='cosine'))
+                if self.vector[self.keys[idx_row]][513] != np.nan and self.vector[self.keys[idx_column]][513] != np.nan:
+
+                    metric_fr = get_metrics(self.vector[self.keys[idx_row]][512:640],
+                                            self.vector[self.keys[idx_column]][512:640],
+                                            dist='euclidean')
+                    metric_inf = get_metrics(self.vector[self.keys[idx_row]][:512],
+                                             self.vector[self.keys[idx_column]][:512],
+                                             dist='cosine')
+
+                    array.append((metric_fr + metric_inf) / 2)
+
+                else:
+
+                    array.append(get_metrics(self.vector[self.keys[idx_row]][:512],
+                                             self.vector[self.keys[idx_column]][:512],
+                                             dist='cosine'))
 
                 array_title.append(self.keys[idx_column])
 

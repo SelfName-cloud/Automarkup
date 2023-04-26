@@ -60,7 +60,3 @@ class DivisionDirs(GenerateSets):
             )
 
         return statistic
-
-
-if __name__ == '__main__':
-    DivisionDirs(input_path='/home/nikita/Automarkup/data/dataset', output_path='/home/nikita/data_markup')
