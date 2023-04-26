@@ -1,5 +1,5 @@
-from optimize_algorithm.work_algoritm import Compare
 import argparse
+from optimize_algoritm_v2.division_dirs import DivisionDirs
 
 parser = argparse.ArgumentParser(description='Paths for dirs')
 
@@ -9,5 +9,4 @@ parser.add_argument('path_output', help='Path to directory where save markup dat
 
 args = parser.parse_args()
 
-Compare(input_path=args.path_input, output_path=args.path_output)
-
+DivisionDirs(input_path=args.path_input, output_path=args.path_output)

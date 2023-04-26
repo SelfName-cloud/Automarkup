@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-from module_image_working import work_image
+from optimize_algorithm import work_image
 from scipy.spatial.distance import pdist
 from numpy import random
 import psutil
@@ -52,7 +52,7 @@ class Compare:
             embedding_face_recognition = work_image.get_face_recognition_embedding(self.input_path + '/' + img)
 
             self.vector[img] = pd.Series(np.concatenate([embedding_insightface['embedding'],
-                                                         np.array(embedding_face_recognition).reshape((128,)),
+                                                         embedding_face_recognition,
                                                          embedding_insightface['pose'],
                                                          np.array([embedding_insightface['gender'],
                                                                    embedding_insightface['age']])], axis=0))
@@ -190,4 +190,4 @@ class Compare:
 
 
 if __name__ == '__main__':
-    comp = Compare(input_path='/home/nikita/Automarkup/data/dataset', output_path='/home/nikita/data_markup')
+    comp = Compare(input_path='/data/dataset', output_path='/home/nikita/data_markup')

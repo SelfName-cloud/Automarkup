@@ -33,7 +33,7 @@ def get_deepface_analyze(image):
 def get_face_recognition_embedding(image):
     image = cv.imread(image)
     try:
-        embedding = face_recognition.face_encodings(face_image=image)
+        embedding = face_recognition.face_encodings(face_image=image)[0]
         return np.array(embedding)
     except:
         return np.full(128, np.nan)
