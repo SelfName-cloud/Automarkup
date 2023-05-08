@@ -1,0 +1,28 @@
+1) Split and get dataset: 
+https://colab.research.google.com/drive/1FjC0ZzZdK5GhT-rFb8jXjHJQb7jlKQWs?usp=sharing
+https://colab.research.google.com/drive/1jH3uu5alwB05hp52Z9Ox_tn6AiziE5x9?usp=sharing
+
+2) Choice detector and extractor: 
+https://colab.research.google.com/drive/1jUOf2V4fUZjQmCJaUWZiMNfUjhf4ibfh?usp=sharing
+
+3) Compare and division images:
+https://colab.research.google.com/drive/1HdZgT3limlzqTbrJ88YH8Fo6XlIfsCwd?usp=sharing
+
+4) Full work pipeline:
+https://colab.research.google.com/drive/1w1LidG0eO18K-SAtQbf8GZ4DRmF8qy1N?usp=sharing
+
+4) Quility control and testing:
+https://colab.research.google.com/drive/1xB0chlgLfXRcF4qm2KduNSGuAb8tS85O?usp=sharing
+
+5) Optimize version 2 algorithm:
+https://www.kaggle.com/code/nikitaryabukhin/insightfaceprojects
+https://www.kaggle.com/code/nikitaryabukhin/insightface2
+
+6) Control algorithm version 2:
+https://colab.research.google.com/drive/1dNDCSoBLUCfBmbd99azNAt58MENQepwn?usp=sharing
+
+
+
+Testing library deepface: 
+https://colab.research.google.com/drive/1o5nHsd3YcfGqZbeY56CgGd3NKWIYdDgg?usp=sharing
+
