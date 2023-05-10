@@ -1,6 +1,7 @@
 from optimize_algoritm_v2.func_getting import get_insightface_embedding, get_face_recognition_embedding, get_metrics
 import numpy as np
 import pandas as pd
+import h5py
 import os
 
 
@@ -15,10 +16,11 @@ class ExtractDataFromImage:
         self.path_to_compare_file = self.output_path + '/compare.h5'
         self.path_to_dirs_file = self.output_path + '/dirs.h5'
 
-        with open(self.path_to_vector_file, 'wb') as f:
-            f.close()
+        #with open(self.path_to_vector_file, 'wb') as f:
+        #    f.close()
 
-        self.vector = pd.HDFStore(self.path_to_vector_file, mode='r+')
+        #self.vector = pd.HDFStore(self.path_to_vector_file, mode='r+')
+        self.vector = h5py.File(self.path_to_vector_file, mode='a')
         self.extract_data()
 
     def extract_data(self):
@@ -27,12 +29,16 @@ class ExtractDataFromImage:
             inf_data = get_insightface_embedding(self.input_path + '/' + img)
             fr_data = get_face_recognition_embedding(self.input_path + '/' + img)
 
-            self.vector[img] = pd.Series(np.concatenate(
+            df = np.concatenate(
                 (inf_data['embedding'].astype(float),
-                fr_data.astype(float),
-                inf_data['pose'].astype(float),
-                np.array([inf_data['gender'],
-                          inf_data['age']])), axis=0))
+                                fr_data.astype(float),
+                                inf_data['pose'].astype(float),
+                                np.array([inf_data['gender'],
+                                inf_data['age']])), axis=0)
+
+            self.vector.create_dataset(name=img, shape=df.shape, dtype=df.dtype, data=df)
+
+            print('\r', 'Count extract images ', idx+1, '/', self.count_image, '\n', end='')
 
 
 
